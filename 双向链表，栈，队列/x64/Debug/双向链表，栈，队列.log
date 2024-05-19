@@ -1,0 +1,17 @@
+﻿  源.cpp
+E:\de  DAIMA\双向链表，栈，队列\源.cpp(1191,1): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\de  DAIMA\双向链表，栈，队列\源.cpp(841,35): warning C4101: “e”: 未引用的局部变量
+E:\de  DAIMA\双向链表，栈，队列\源.cpp(885): message : 查看对正在编译的函数 模板 实例化“void jiaohuarray<T>(DynamicArrayStack<T> &)”的引用
+          with
+          [
+              T=int
+          ]
+E:\de  DAIMA\双向链表，栈，队列\源.cpp(1025): message : 查看对正在编译的函数 模板 实例化“void mains<int>(void)”的引用
+E:\de  DAIMA\双向链表，栈，队列\源.cpp(781,36): warning C4101: “e”: 未引用的局部变量
+E:\de  DAIMA\双向链表，栈，队列\源.cpp(903): message : 查看对正在编译的函数 模板 实例化“void jiaohuarrayque<T>(Arrayqueue<T> &)”的引用
+          with
+          [
+              T=int
+          ]
+E:\de  DAIMA\双向链表，栈，队列\源.cpp(1047): message : 查看对正在编译的函数 模板 实例化“void mainq<int>(void)”的引用
+  双向链表，栈，队列.vcxproj -> E:\de  DAIMA\双向链表，栈，队列\x64\Debug\双向链表，栈，队列.exe
