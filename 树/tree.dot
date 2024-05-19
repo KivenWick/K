@@ -1,0 +1,5 @@
+digraph Tree {
+5 -> 3 [label="L"];
+5 -> 8 [label="R"];
+2 -> 4 [label="L"];
+}
