@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\de  DAIMA\双向循环链表\源.cpp(617,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  双向循环链表.vcxproj -> E:\de  DAIMA\双向循环链表\Debug\双向循环链表.exe
